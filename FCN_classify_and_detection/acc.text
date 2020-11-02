@@ -1,0 +1,8 @@
+training on  cuda
+epoch 1, loss 0.8928, train acc 0.672, test acc 0.812, time 62.8 sec
+epoch 2, loss 0.6552, train acc 0.825, test acc 0.840, time 60.3 sec
+epoch 3, loss 0.6106, train acc 0.850, test acc 0.855, time 60.3 sec
+epoch 4, loss 0.5876, train acc 0.862, test acc 0.871, time 60.3 sec
+epoch 5, loss 0.5682, train acc 0.871, test acc 0.874, time 60.2 sec
+epoch 6, loss 0.5556, train acc 0.877, test acc 0.880, time 60.4 sec
+epoch 7, loss 0.5479, train acc 0.881, test acc 0.879, time 60.8 sec

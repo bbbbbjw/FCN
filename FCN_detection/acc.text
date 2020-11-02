@@ -1,0 +1,6 @@
+epoch 1, loss 0.9724, train acc 0.586, test acc 0.741, time 63.9 sec
+epoch 2, loss 0.7051, train acc 0.786, test acc 0.814, time 62.9 sec
+epoch 3, loss 0.6408, train acc 0.824, test acc 0.849, time 64.8 sec
+epoch 4, loss 0.6093, train acc 0.841, test acc 0.853, time 63.4 sec
+epoch 5, loss 0.5891, train acc 0.852, test acc 0.855, time 63.8 sec
+epoch 6, loss 0.5724, train acc 0.860, test acc 0.864, time 63.5 sec
